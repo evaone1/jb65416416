@@ -4,4 +4,4 @@
 | ----------- | ----------- |
 | example1      | https://github.com/yaakov-hatam/jbh-ng       |
 | example2   | https://github.com/yaakov-hatam/jbh-ng/edit/main/README.md        |
-| beni nachshon | https://github.com/beni-nachshon/ag1 |
+| beni-nachshon | https://github.com/beni-nachshon/ag1 |
