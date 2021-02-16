@@ -2,5 +2,5 @@
 
 | Student name      | Project link |
 | ----------- | ----------- |
-| example1      | https://github.com/yaakov-hatam/jbh-ng       |
+| Yehoshua Yaakov Shaneosn | https://github.com/yehoshuayaakov/projectjbh       |
 | example2   | https://github.com/yaakov-hatam/jbh-ng/edit/main/README.md        |
