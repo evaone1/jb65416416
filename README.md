@@ -2,6 +2,7 @@
 
 | Student name      | Project link |
 | ----------- | ----------- |
+| yosef hirshman | https://github.com/YosefTsvi/avratech | 
 | Avi Epstein |   https://github.com/Avi-Epstein/project.git |
 | Yehoshua Yaakov Shaneosn | https://github.com/yehoshuayaakov/projectjbh       |
 | haim frenkel | https://github.com/haimfrenkel/coins-jbh        |
