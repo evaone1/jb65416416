@@ -2,6 +2,7 @@
 
 | Student name      | Project link |
 | ----------- | ----------- |
+| Avi Epstein |   https://github.com/Avi-Epstein/project.git |
 | Yehoshua Yaakov Shaneosn | https://github.com/yehoshuayaakov/projectjbh       |
 | haim frenkel | https://github.com/haimfrenkel/coins-jbh        |
 | yonatan radzyminsky  |  https://github.com/radzyminsky/angular_final_project_in_JBH.git |
