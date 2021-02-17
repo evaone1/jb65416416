@@ -12,3 +12,4 @@
 | Gedalya Blau | https://github.com/GedalyaBlau/GedalyaBlau-sAngularProject |
 | shlomi brezman | https://github.com/shbrezman/Crypto-project |
 | יואל פייבלזון | https://github.com/yoel7/project |
+| Netanel David | https://github.com/NetanelDavid/virtuals-coins | && https://virtuals-coins.web.app/coins |
