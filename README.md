@@ -18,3 +18,4 @@
 | yoni nachshon | https://github.com/yoni-nachshon/CryptoApp    |
 |אברהם דזיאלובסקי | https://github.com/szhtkucxeh/project-two |
 | abbayaakovliff| https://github.com/abbaYaakovLiff/coins-progect.git |
+| יצחק מליק | https://github.com/yitzhak-malik/cryptonite |
