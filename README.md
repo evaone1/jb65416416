@@ -2,6 +2,7 @@
 
 | Student name      | Project link |
 | ----------- | ----------- |
+| netanel david      | https://github.com/NetanelDavid/virtuals-coins.git       
 | beni-nachshon | https://github.com/beni-nachshon/project |
 | yechiel friedman      | https://github.com/yechiel-186/crypto       |
 |Levin Meir  | https://github.com/LevinMeir/Cryptonite.git |
