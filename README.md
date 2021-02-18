@@ -15,5 +15,5 @@
 | shlomi brezman | https://github.com/shbrezman/Crypto-project |
 | יואל פייבלזון | https://github.com/yoel7/project |
 | yoni nachshon | https://github.com/yoni-nachshon/CryptoApp    |
-
-abbayaakovliff| https://github.com/abbaYaakovLiff/coins-progect.git |
+|אברהם דזיאלובסקי | https://github.com/szhtkucxeh/project-two |
+| abbayaakovliff| https://github.com/abbaYaakovLiff/coins-progect.git |
